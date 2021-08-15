@@ -1,8 +1,8 @@
  # DATA_STRUCTURE
- #   Bainary_Tree
  #    Bainary_Search_Tree
+  # Hashing
  # Heap
- # Hashing
  # Linked_List
- # Stack
+ # Tree
  # Queue
+ # Stack
