@@ -65,5 +65,5 @@ if __name__== "__main__":
     print("Sum is index i to j:", res)
     update(1, 0, n-1, 4, 5)
     print("Updated Tree:", tree)
-    res = query(1, 0, n, i, j)
+    res = query(0, 0, n-1, i, j)
     print("Sum is index i to j:", res)
